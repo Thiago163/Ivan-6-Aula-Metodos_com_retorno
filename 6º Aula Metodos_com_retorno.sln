@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6º Aula Metodos_com_retorno", "6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno.csproj", "{5B19F943-2E1A-4913-8876-F818FE166270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B19F943-2E1A-4913-8876-F818FE166270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B19F943-2E1A-4913-8876-F818FE166270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B19F943-2E1A-4913-8876-F818FE166270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B19F943-2E1A-4913-8876-F818FE166270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86862CBA-6D29-4282-BD35-660E00570B6F}
+	EndGlobalSection
+EndGlobal

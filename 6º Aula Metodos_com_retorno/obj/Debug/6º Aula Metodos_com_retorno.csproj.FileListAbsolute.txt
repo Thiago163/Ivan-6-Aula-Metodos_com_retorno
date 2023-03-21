@@ -1,0 +1,7 @@
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\bin\Debug\6º Aula Metodos_com_retorno.exe.config
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\bin\Debug\6º Aula Metodos_com_retorno.exe
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\bin\Debug\6º Aula Metodos_com_retorno.pdb
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\obj\Debug\6º Aula Metodos_com_retorno.csprojAssemblyReference.cache
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\obj\Debug\6º Aula Metodos_com_retorno.csproj.CoreCompileInputs.cache
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\obj\Debug\6º Aula Metodos_com_retorno.exe
+D:\home\aluno\Desktop\6º Aula Metodos_com_retorno\6º Aula Metodos_com_retorno\obj\Debug\6º Aula Metodos_com_retorno.pdb
